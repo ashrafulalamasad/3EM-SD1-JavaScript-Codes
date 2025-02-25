@@ -14,3 +14,6 @@ This repository contains solutions to basic JavaScript problems.
 - A loop runs from 1 to 100.
 - It checks if a number is even and prints it.
 
+
+
+
