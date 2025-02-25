@@ -1,4 +1,4 @@
-# JavaScript Problems - 3EM SD1
+# JavaScript Problems Practice - 3EM SD1
 
 This repository contains solutions to basic JavaScript problems.
 
