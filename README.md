@@ -8,6 +8,7 @@ This repository contains solutions to basic JavaScript problems.
 #### ✅ Solution:
 - The program takes an integer as input.
 - It prints the next integer of the given number.
+- I used readline to solve this problem.
 
 ### 2️⃣ Create a loop that prints all the even numbers from 1-100.
 #### ✅ Solution:
