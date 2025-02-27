@@ -17,5 +17,3 @@ This repository contains solutions to basic JavaScript problems.
 - I used for loop to solve this problem.
 
 
-
-
