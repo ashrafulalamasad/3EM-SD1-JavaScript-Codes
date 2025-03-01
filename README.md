@@ -1,4 +1,4 @@
-# JavaScript Problems Practice - 3EM Software Development 1
+# JavaScript Problems Practice - 3EM Software Development 1 course
 
 This repository contains solutions to basic JavaScript problems.
 
